@@ -8,3 +8,13 @@ The unemployment rate of a country is an indirect indicator of the health of the
 From the graph, we see that the unemployment rates seem to have a periodic component. The objective of this project is to determine whether the unemployment rates in the US can be forecasted for the next 12 months based on the patterns in historical data. If it is possible to make accurate forecasts based on leading indicators, countries and businesses can take preventive measures to mitigate or minimize the effects of the forthcoming economic crisis.
 
 Due to COVID-19, the world economy has suffered a shock in 2020, leading to rising unemployment rates. By forecasting the unemployment rates based on historical data and comparing it to the actual measurements from 2020, we will be able to derive a tangible measure of the effect COVID-19 has had on the economy of the USA.
+
+## Documentation of files:
+
+1. Unemployment_Forecast.R : File containing R code used for forecasting
+2. Unemployment_Forecast.pdf : PDF version of code containing outputs and graphs
+3. USUnemployment.csv : File containing monthly US unempolyment data from 1948 to 2019
+4. USUnemployment_2020.xlsx : File contsining US unemployment data from Jan-Oct 2020
+5. DGORDER.xls : File containing monthly durable goods orders
+6. ^DJU.csv: File containing monthly Dow-Jones Industrial average
+7. PCECC96.xls: File containing quarterly personal consumption expenditure
